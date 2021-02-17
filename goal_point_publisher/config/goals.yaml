@@ -1,0 +1,28 @@
+ goals_list:
+  - name: shop1
+    id: 1
+    x: -8.0
+    y: 8.0
+    z: 0
+    w: 0.5
+  
+  - name: shop2
+    id: 2
+    x: -6.0
+    y: 6.0
+    z: 0
+    w: 0.0
+  
+  - name: shop3
+    id: 3
+    x: -4.0
+    y: 4.0
+    z: 0
+    w: 0.0
+
+  - name: shop4
+    id: 4
+    x: -4.0
+    y: 2.0
+    z: 0
+    w: -0.5

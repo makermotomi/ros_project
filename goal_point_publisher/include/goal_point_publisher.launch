@@ -1,0 +1,5 @@
+<launch>
+  <node name="goal_point_publisher" pkg="goal_point_publisher" type="goal_point_publisher" output="screen">
+    <rosparam command="load" file="$(find goal_point_publisher)/config/goals.yaml"/>
+  </node>
+</launch>
